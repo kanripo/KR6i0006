@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:27.183674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:23
 #+TITLE: 八吉祥經
 #+PROPERTY: CBETA_ID T14n0430
 #+PROPERTY: ID KR6i0006
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 430
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0006_T_000-0075a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0006_T_001-0075a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.430[Nos.427-429,431]¶
-
- 八吉祥經¶
+No. 430 [Nos. 427-429, 431]¶
+八吉祥經¶
 ¶
 梁扶南三藏僧伽婆羅譯¶
 
@@ -125,9 +124,9 @@ No.430[Nos.427-429,431]¶
 　是故有智者，
 　惟當念受持，¶
 　一心懷忻喜，
-　不應起放逸。」
+　不應起放逸。」」
 #+END_VERSE
-」¶
+¶
 
 佛說此經已，長老舍利弗等諸大比丘，并諸¶
 菩薩摩訶薩眾，天龍、夜叉、乾闥婆、阿修羅、迦¶
